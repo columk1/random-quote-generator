@@ -3,7 +3,7 @@ import './App.css';
 const { useState, useEffect } = React;
 const quotes = [
     {quote: "It goes, boys!", author: "Lynn Hill"},
-    {quote: "The crux is a dyno to a shark tooth micro crimper quarter pad mini pinch.", author: "Daniel Woods"},
+    {quote: "You take a glassy, shark's tooth micro crimper and dyno to a quarter pad mini pinch.", author: "Daniel Woods"},
     {quote: "If it's not hard then it's not hard is it?", author: "Hard Grit"},
     {quote: "It's fucking hundred million degrees!", author: "Adam Ondra"}
 ];
